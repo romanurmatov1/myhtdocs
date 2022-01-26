@@ -1,0 +1,23 @@
+body {
+    background-color: aquamarine;
+}
+
+main {
+    width: 340px;
+    overflow: hidden;
+    background-color: #fdfcfc;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000;
+    border-radius: 7px;
+    box-shadow: -4px -4px 20px rgba(0, 0, 0, 0.505);
+    margin: 50px auto;
+
+}
+main h3{
+    text-align: center;
+}
+main p {
+    margin-left: 4%;
+    margin-right: 4%;
+}
